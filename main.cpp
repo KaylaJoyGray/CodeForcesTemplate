@@ -19,7 +19,7 @@ using d = double;
 using dl = long double;
 
 int main() {
-    // these lines make can improve IO speed
+    // these lines can improve IO speed
     ios::sync_with_stdio(0);
     cin.tie(0);
 
